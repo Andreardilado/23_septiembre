@@ -1,0 +1,85 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+main {
+    margin: 0px;
+    padding: 0px;
+}
+
+/*Contenedor 1*/
+.container1 {
+    width: 100%;
+    display: flex;
+    background-color: rgb(0, 0, 0);
+}
+
+/*Columna 1*/
+.container1 .col1 {
+    width: 33.33%;
+    height: 30vh;
+    background-color: burlywood;
+}
+
+/*columna2*/
+
+.container1 .col2 {
+    width: 66.66%;
+    height: 30vh;
+    background-color: rgb(158, 211, 163);
+}
+/*contenedor 2 y fila 1*/
+
+.container2 .row {
+    display: flex;
+    background-color: rgb(0, 0, 0);
+
+}
+
+/*columna3*/
+
+.container2 .row .col3
+{
+    width: 33.33%;
+    height: 30vh;
+    background-color: rgb(58, 66, 50);
+}
+/*columna4*/
+.container2 .row .col4
+{
+    width: 33.33%;
+    height: 30vh;
+    background-color: rgb(191, 202, 179);
+}
+
+/*columna5*/
+.container2 .row .col5
+{
+    width: 33.33%;
+    height: 30vh;
+    background-color: rgb(238, 150, 212);
+}
+/*contenedor 2 y fila 2*/
+
+.container3 .row {
+    display: flex;
+    background-color: rgb(0, 0, 0);
+
+}
+/*columna6*/
+.container3 .row .col6
+{
+    width: 50%;
+    height: 30vh;
+    background-color: rgb(145, 176, 233);
+}
+/*columna7*/
+.container3 .row .col7
+{
+    width: 50%;
+    height: 30vh;
+    background-color: rgb(147, 88, 196);
+}
+
+
